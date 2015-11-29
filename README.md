@@ -14,7 +14,7 @@
 
 >3、*本地编辑*
 
-如果你习惯于使用git（[教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)），那么具体的方法如下：
+1、如果你习惯于使用git（[教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)），那么具体的方法如下：
 
 ```bash
 touch README.md SUMMARY.md
@@ -24,9 +24,7 @@ git commit -m "first commit"
 git remote add gitbook https://git.gitbook.com/nephen/new-embedded-member-learning-guidance.git
 git push -u gitbook master
 ```
->4、*客户端操作*
-
-下载[GitBook Editor](https://www.gitbook.com/editor)。
+2、或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作。
 
 如果是在Linux环境下
 ```
