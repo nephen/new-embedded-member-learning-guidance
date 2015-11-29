@@ -19,4 +19,4 @@
 
 [原理图与PCB](http://pan.baidu.com/s/1DkLNg) 密码：8igp
 
-[LPLD操作系统及例程](http://pan.baidu.com/s/1jG8kMwu) 密码：ab3i
+[LPLD操作系统及例程](http://pan.baidu.com/s/1o61WZZO)
