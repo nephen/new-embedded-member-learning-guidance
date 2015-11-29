@@ -24,6 +24,15 @@ git commit -m "first commit"
 git remote add gitbook https://git.gitbook.com/nephen/new-embedded-member-learning-guidance.git
 git push -u gitbook master
 ```
+>4、*客户端操作*
+
+下载[GitBook Editor](https://www.gitbook.com/editor)。
+
+如果是在Linux环境下
+```
+~ $ sudo dpkg -r gitbook-editor-4.2.2-linux-x64.deb
+```
+
 ####参考资料
 1、关于gitbook，可查看[www.gitbook.com](www.gitbook.com)。
 
