@@ -17,7 +17,7 @@
 #####初学篇
 `匿名飞控`
 #####加强篇
-正在学习[px4](www.pixhawk.org),硬件现成，主攻软件。
+正在学习[px4](www.pixhawk.org)，硬件现成，主攻软件。
 
 pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Firmware上。
 
