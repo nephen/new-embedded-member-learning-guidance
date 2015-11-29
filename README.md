@@ -1,7 +1,7 @@
 前言
 =======
 
-###此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导。
+######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导。
 
 ####怎么参与维护
 >1、*加入合作者*
@@ -24,9 +24,7 @@ git commit -m "first commit"
 git remote add gitbook https://git.gitbook.com/nephen/new-embedded-member-learning-guidance.git
 git push -u gitbook master
 ```
-2、或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作。
-
-如果是在64位Linux环境下
+2、或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作，如果是在64位Linux环境下
 ```
 ~ $ sudo dpkg -r gitbook-editor-4.2.2-linux-x64.deb
 ```
