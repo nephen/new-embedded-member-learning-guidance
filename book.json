@@ -3,6 +3,17 @@
 
 { "language": "en" }
 
+{ "plugins": ["mathjax"] }
+
+{
+    "plugins": ["myplugin"],
+    "pluginsConfig": {
+        "myPlugin": {
+            "message": "Hello World"
+        }
+    }
+}
+
 {
     "styles": {
         "website": "styles/website.css",
