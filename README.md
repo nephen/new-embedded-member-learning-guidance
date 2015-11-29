@@ -26,7 +26,7 @@ git push -u gitbook master
 ```
 2、或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作。
 
-如果是在Linux环境下
+如果是在64位Linux环境下
 ```
 ~ $ sudo dpkg -r gitbook-editor-4.2.2-linux-x64.deb
 ```
