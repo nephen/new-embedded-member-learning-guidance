@@ -5,12 +5,15 @@
 
 ####怎么参与维护
 >1、*加入合作者*
+
 如果你有时间、并且有兴趣，请给我发邮件（995168694@qq.com），我将给你发送加入合作者的链接。
 
 >2、*网页端编辑*
+
 如果你没有安装任何环境，你也可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑。
 
 >3、*本地编辑*
+
 如果你习惯于使用git（[教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)），那么具体的方法如下：
 
 ```bash
@@ -23,4 +26,5 @@ git push -u gitbook master
 ```
 ####参考资料
 1、关于gitbook，可查看[www.gitbook.com](www.gitbook.com)。
+
 2、gitbook的官方使用，可查看[www.help.gitbook.com](www.help.gitbook.com)。
