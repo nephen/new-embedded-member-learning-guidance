@@ -17,4 +17,6 @@
 ---
 #####2015届智能车参考资料
 
-**百度网盘**：[原理图与PCB](http://pan.baidu.com/s/1DkLNg) 密码：8igp
+[原理图与PCB](http://pan.baidu.com/s/1DkLNg) 密码：8igp
+
+[LPLD操作系统](http://pan.baidu.com/s/1jG8kMwu) 密码：ab3i
