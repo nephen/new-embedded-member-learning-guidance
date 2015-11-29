@@ -6,5 +6,6 @@
     * [Robot](part1/robot.md)
     * [Platform](part1/platform.md)
 * [Part II](part2/README.md)
-    * [We love feedback](part2/feedback_please.md)
-    * [Better tools for authors](part2/better_tools.md)
+* [Part III](part3/README.md)
+* [Part IV](part4/README.md)
+* [Part V](part5/README.md)
