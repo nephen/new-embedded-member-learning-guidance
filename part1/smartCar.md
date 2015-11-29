@@ -13,6 +13,4 @@
 ####项目源码
 #####2015届智能车参考资料
 
-**百度网盘**：
-
-[开发全套资料](http://pan.baidu.com/s/1o6nJQ34) 密码：ampu
+**百度网盘**：[开发全套资料](http://pan.baidu.com/s/1o6nJQ34) 密码：ampu
