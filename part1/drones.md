@@ -5,7 +5,9 @@
 
 ####项目成员
 *项目发起人*：11级计科张洪龙
+
 *无人机爱好者*：12级网络吴兴章、12级通信吴静雯
+
 *目前实验室参与人员*：13级通信曾显珣、13级计科贺艳丹
 
 ####项目进展
@@ -13,6 +15,7 @@
 `匿名飞控`
 #####加强篇
 正在学习[px4](www.pixhawk.org),硬件现成，主攻软件。
+
 pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Firmware上。
 
 ######怎么加入开源飞控
@@ -34,4 +37,5 @@ pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Fi
 ```
 ####项目源码
 *git地址*：www.github.com/nephen/MyFirmware
+
 *百度云盘*：http://pan.baidu.com/s/1gdhSxHL *密码*：52ge
