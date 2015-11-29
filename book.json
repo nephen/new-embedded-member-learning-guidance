@@ -29,3 +29,9 @@
         "readme": "README.md"
     }
 }
+
+{
+    "variables": {
+        "myTest": "Hello World"
+    }
+}
