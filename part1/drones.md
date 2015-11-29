@@ -1,7 +1,9 @@
 # 无人机
 
 ####项目描述
+
 ======
+
 以stm32为飞行控制平台，mpu6050或mpu6000为姿态传感器，采用最新姿态估计算法，实现对四旋翼的定点定高飞行。
 
 ####项目成员
@@ -13,7 +15,9 @@
 *目前实验室参与人员*：13级通信曾显珣、13级计科贺艳丹
 
 ####项目进展
+
 ======
+
 #####初学篇
 `匿名飞控`
 #####加强篇
@@ -27,7 +31,7 @@ pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Fi
 ~ $ cd Firmware
 ~/Firmware $ make
 ```
-######怎么使用GIT<small>[Git教程 - 廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)</small>
+######怎么使用GIT<small>[Git教程-廖雪峰的官方网站](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)</small>
 ```sh
 ~ $ sudo apt-get install git-all
 ~ $ makedir YuningFly
@@ -39,7 +43,9 @@ pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Fi
 ~/YuningFly $git push -u origin master
 ```
 ####项目源码
+
 ======
+
 *git地址*：[www.github.com/nephen/MyFirmware](www.github.com/nephen/MyFirmware)
 
 *百度云盘*：http://pan.baidu.com/s/1gdhSxHL *密码*：52ge
