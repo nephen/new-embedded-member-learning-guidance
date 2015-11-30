@@ -19,7 +19,7 @@
 
 [原理图与PCB](http://pan.baidu.com/s/1DkLNg) <small>密码：8igp</small>
 
-[LPLD版uCOSII操作系统及例程](http://www.lpld.cn/?p=97)详情请见官网[http://www.lpld.cn/](http://www.lpld.cn/)
+[LPLD版uCOSII操作系统及例程](http://www.lpld.cn/?p=97)详情请见官网[http://www.lpld.cn/](http://www.lpld.cn/)，了解更多uC/OS，请查看官网[http://micrium.com/downloadcenter/](http://micrium.com/downloadcenter/)
 
 [底层驱动源码](http://pan.baidu.com/s/1gdK2iIZ) <small>密码：5izy</small>
 
