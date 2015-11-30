@@ -25,6 +25,8 @@
 
 pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Firmware上。
 
+平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
+
 ######怎么加入开源飞控
 ```sh
 ~ $ git clone git@github.com:px4/Firmware.git
