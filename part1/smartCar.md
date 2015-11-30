@@ -23,4 +23,4 @@
 
 [底层驱动源码](http://pan.baidu.com/s/1gdK2iIZ) 密码：5izy
 
-[重要元器件资料](http://pan.baidu.com/s/1i3sDLOD) 密码：
+[重要元器件资料](http://pan.baidu.com/s/1i3sDLOD) 密码：3rrj
