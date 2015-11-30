@@ -19,6 +19,6 @@
 
 [原理图与PCB](http://pan.baidu.com/s/1DkLNg) 密码：8igp
 
-[LPLD版uCOSII操作系统及例程](http://www.lpld.cn/?p=97)
+[LPLD版uCOSII操作系统及例程](http://www.lpld.cn/?p=97)详情请见官网[http://www.lpld.cn/](http://www.lpld.cn/)
 
 [底层驱动源码](http://pan.baidu.com/s/1gdK2iIZ) 密码：5izy
