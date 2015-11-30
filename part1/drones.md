@@ -15,7 +15,7 @@
 ####项目进展
 ---
 #####1、初学篇
-[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。
+[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。外国也有一个做微型四轴的，叫做[Crazyflie](https://www.bitcraze.io/)有兴趣可以多去参考一下别人的源码。
 #####2、加强篇
 正在学习[px4](www.pixhawk.org)，硬件现成，主攻软件。
 
