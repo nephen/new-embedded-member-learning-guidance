@@ -19,7 +19,7 @@
 
 外国也有一个做微型四轴的，叫做[Crazyflie](https://www.bitcraze.io/)有兴趣可以多去参考一下别人的[源码](https://github.com/bitcraze)。
 
-这里有个建议，花点时间学下GIT，然后将项目源码托管于Github上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
+这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
 #####2、加强篇
 正在学习[px4](www.pixhawk.org)，硬件现成，主攻软件。
 
