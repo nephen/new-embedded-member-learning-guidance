@@ -14,9 +14,9 @@
 
 ####项目进展
 ---
-#####初学篇
-`匿名飞控`
-#####加强篇
+#####1、初学篇
+[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)
+#####2、加强篇
 正在学习[px4](www.pixhawk.org)，硬件现成，主攻软件。
 
 pixhawk[官方源码](www.github.com/px4/Firmware)托管在www.github.com/px4/Firmware上。
