@@ -24,3 +24,14 @@
 [底层驱动源码](http://pan.baidu.com/s/1gdK2iIZ) <small>密码：5izy</small>
 
 [重要元器件资料](http://pan.baidu.com/s/1i3sDLOD) <small>密码：3rrj</small>
+
+[视频](http://v.youku.com/v_show/id_XNzk0OTYwNTgw.html)
+
+Idina Menze和Caleb Hyles激情对唱Let It Go:<iframe height=498 width=510 src="http://player.youku.com/embed/XNjcyMDU4Njg0" frameborder=0 allowfullscreen></iframe>
+
+<video id="video" controls="" preload="none" poster="http://media.w3.org/2010/05/sintel/poster.png">
+      <source id="mp4" src="http://media.w3.org/2010/05/sintel/trailer.mp4" type="video/mp4">
+      <source id="webm" src="http://media.w3.org/2010/05/sintel/trailer.webm" type="video/webm">
+      <source id="ogv" src="http://media.w3.org/2010/05/sintel/trailer.ogv" type="video/ogg">
+      <p>Your user agent does not support the HTML5 Video element.</p>
+    </video>
