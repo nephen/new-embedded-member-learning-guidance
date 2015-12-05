@@ -19,4 +19,4 @@
 
 ![all](all.png)
 
-<a href="../part5/proxy.zip">下载</a>
+<a href="proxy.zip">下载</a>
