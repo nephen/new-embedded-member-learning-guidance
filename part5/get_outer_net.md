@@ -4,4 +4,13 @@
 
 完成效果如图：
 
-![chrome](../../part5/chrome.png)
+![chrome](../part5/chrome.png)
+
+2、成功后登录即可
+
+帐号：120361744@qq.com
+密码：123456
+
+登录界面：
+
+![preview]()
