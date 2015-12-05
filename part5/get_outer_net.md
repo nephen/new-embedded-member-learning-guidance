@@ -18,3 +18,7 @@
 3、完成后如下：
 
 ![all](all.png)
+
+<div align="center">
+<img src="all.png"  alt="上海鲜花港 - 郁金香"/>
+</div> 
