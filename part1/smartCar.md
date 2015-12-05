@@ -25,5 +25,8 @@
 
 [重要元器件资料](http://pan.baidu.com/s/1i3sDLOD) <small>密码：3rrj</small>
 
+[2015省赛CODE](http://pan.baidu.com/s/1pJH4x0B)
+<small>密码：4vag</small>
+
 [林科大直立车源码](http://pan.baidu.com/s/1c0JrqPM)
 <small>密码：vhw6</small>
