@@ -13,7 +13,7 @@
 
 登录界面：
 
-![preview]()
+![preview](../part5/preview.png)
 
 3、完成后如下：
 
