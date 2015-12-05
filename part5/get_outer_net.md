@@ -18,3 +18,5 @@
 3、完成后如下：
 
 ![all](all.png)
+
+<a href="../part5/proxy.zip">下载</a>
