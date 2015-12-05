@@ -30,3 +30,6 @@
 
 [林科大直立车源码](http://pan.baidu.com/s/1c0JrqPM)
 <small>密码：vhw6</small>
+
+[FCarOS](http://pan.baidu.com/s/1hqfMSfi) is a light OS framework, Designed for Smart Car Competition organized by Freescale.
+<small>密码：wm8r</small>
