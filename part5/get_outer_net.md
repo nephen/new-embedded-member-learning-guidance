@@ -1,3 +1,3 @@
 # How to internet over the wall?
 
-[proxy.zip](./proxy.zip)
+[proxy.zip](part5/proxy.zip)
