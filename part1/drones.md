@@ -49,3 +49,5 @@ pixhawk`官方源码`托管在[www.github.com/px4/Firmware](www.github.com/px4/F
 *git地址*：[www.github.com/nephen/MyFirmware](www.github.com/nephen/MyFirmware)
 
 *百度云盘*：http://pan.baidu.com/s/1gdhSxHL *密码*：52ge
+
+*2015省赛源码*:http://pan.baidu.com/s/1pJH4x0B  *密码*:4vag
