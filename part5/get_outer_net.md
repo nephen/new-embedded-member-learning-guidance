@@ -4,4 +4,4 @@
 
 完成效果如图：
 
-![chrome](chrome.png)
+![chrome](../../part5/chrome.png)
