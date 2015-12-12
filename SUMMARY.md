@@ -11,7 +11,7 @@
    * [C language](part2/C language.md)
    * [Data structure](part2/Data structure.md)
 * [Part III](part3/README.md)
-    * [驱动开发](part3/Drive development.md)
+    * [Drive development](part3/Drive development.md)
 * [Part IV](part4/README.md)
 * [Part V](part5/README.md)
    * [How to internet over the wall?](part5/get_outer_net.md)
