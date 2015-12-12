@@ -22,5 +22,3 @@
 3、完成后如下：
 
 ![all](all.png)
-
-<a href="proxy.zip">下载</a>
