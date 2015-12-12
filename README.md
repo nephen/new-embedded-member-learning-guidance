@@ -3,7 +3,7 @@
 
 ######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导,访问地址：[emb.nephen.com](http://emb.nephen.com/)。
 
-####怎么参与维护
+####`怎么参与维护`
 >1、*加入合作者*
 
 如果你有时间、并且有兴趣，请给我发邮件[995168694@qq.com](995168694@qq.com)，我将给你发送加入合作者的链接。
@@ -28,11 +28,11 @@ git push -u gitbook master
 ```
 ~ $ sudo dpkg -i gitbook-editor-4.2.2-linux-x64.deb
 ```
-####建议
+####`建议`
 *1. 如果你是项目组成员，建议完善第一章相关的项目。*
 
 *2. 如果你是已经工作的学长学姐，可以完善第二章的工作应聘技巧和第三章的嵌入式研究方向。*
-####参考资料
+####`参考资料`
 1、关于gitbook，可查看[www.gitbook.com](www.gitbook.com)。
 
 2、gitbook的官方使用，可查看[www.help.gitbook.com](www.help.gitbook.com)。
