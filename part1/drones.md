@@ -46,7 +46,7 @@ pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.c
 ```
 ####项目源码
 ---
-*git地址*：[www.github.com/nephen/MyFirmware](https//:www.github.com/nephen/MyFirmware)
+*git地址*：[www.github.com/nephen/MyFirmware](https://www.github.com/nephen/MyFirmware)
 
 *项目作品*：http://pan.baidu.com/s/1gdhSxHL *密码*：52ge
 
