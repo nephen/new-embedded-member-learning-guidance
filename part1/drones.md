@@ -38,11 +38,11 @@ pixhawk`官方源码`托管在[www.github.com/px4/Firmware](www.github.com/px4/F
 ~ $ sudo apt-get install git-all
 ~ $ makedir YuningFly
 ~ $ cd YuningFly
-~/YuningFly $git init
-~/YuningFly $git add *
-~/YuningFly $git commit -m "Commit message"
-~/YuningFly $git remote add origin git@github.com:{{username}}/{{repository}}
-~/YuningFly $git push -u origin master
+~/YuningFly $ git init
+~/YuningFly $ git add *
+~/YuningFly $ git commit -m "Commit message"
+~/YuningFly $ git remote add origin git@github.com:{{username}}/{{repository}}
+~/YuningFly $ git push -u origin master
 ```
 ####项目源码
 ---
