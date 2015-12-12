@@ -35,4 +35,4 @@ git push -u gitbook master
 ####`参考资料`
 1、关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
-2、gitbook的官方使用，可查看[www.help.gitbook.com](www.help.gitbook.com)。
+2、gitbook的官方使用，可查看[www.help.gitbook.com](https://help.gitbook.com/)。
