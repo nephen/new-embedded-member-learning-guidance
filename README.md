@@ -33,6 +33,6 @@ git push -u gitbook master
 
 *2. 如果你是已经工作的学长学姐，可以完善第二章的工作应聘技巧和第三章的嵌入式研究方向。*
 ####`参考资料`
-1、关于gitbook，可查看[www.gitbook.com](www.gitbook.com)。
+1、关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
 2、gitbook的官方使用，可查看[www.help.gitbook.com](www.help.gitbook.com)。
