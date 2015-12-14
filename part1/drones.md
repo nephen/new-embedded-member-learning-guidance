@@ -14,22 +14,21 @@
 
 ####项目进展
 ---
-#####1.0 初学篇
-[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。
+####1.0 初学篇
+*介绍*：[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。
 
 外国也有一个做微型四轴的，叫做[Crazyflie](https://www.bitcraze.io/)有兴趣可以多去参考一下别人的[源码](https://github.com/bitcraze)，淘宝购件[[地址1]](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-5390404431.91.IKQiR6&id=41416472851)[[地址2]](https://shop35831139.taobao.com/?spm=a230r.7195193.1997079397.2.apEOxY)。
 
-这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
-#####2.0 加强篇
-正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
+*建议*：这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
+####2.0 加强篇
+*计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
-pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。
-
-平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
+*资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
 
 #####2.1 学习PX4进度条
+这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
-[初学PX4之环境搭建](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>
+[~~初学PX4之环境搭建~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>
 
 
 ####项目源码
