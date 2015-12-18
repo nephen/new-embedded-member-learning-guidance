@@ -21,12 +21,6 @@
 
 *建议*：这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
 
-*视频集*：
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
