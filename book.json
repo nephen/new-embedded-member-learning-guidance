@@ -7,7 +7,7 @@
          "NodeBB"
     ]
     
-    "plugin": ["baidu"],
+    "plugins": ["baidu"],
     "pluginsConfig": {
         "baidu": {
             "token": "YOUR TOKEN"
