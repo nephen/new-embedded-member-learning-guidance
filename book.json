@@ -6,4 +6,11 @@
          "video",
          "NodeBB"
     ]
+    
+    "plugin": ["baidu"],
+    "pluginsConfig": {
+        "baidu": {
+            "token": "YOUR TOKEN"
+        }
+    }
 }
