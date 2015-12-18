@@ -25,6 +25,8 @@
 
 *资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
 
+{% youtube %}https://www.youtube.com/watch?v=8m4_NpTQn0E&vq=hd720{% endyoutube %}
+
 #####2.1 学习PX4进度条
 这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
