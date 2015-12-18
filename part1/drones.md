@@ -20,6 +20,10 @@
 外国也有一个做微型四轴的，叫做[Crazyflie](https://www.bitcraze.io/)有兴趣可以多去参考一下别人的[源码](https://github.com/bitcraze)，淘宝购件[[地址1]](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-5390404431.91.IKQiR6&id=41416472851)[[地址2]](https://shop35831139.taobao.com/?spm=a230r.7195193.1997079397.2.apEOxY)。
 
 *建议*：这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
+
+*视频集*：
+
+{% video %}http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html{% endvideo %}
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
