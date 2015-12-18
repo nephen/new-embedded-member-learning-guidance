@@ -25,7 +25,7 @@
 
 *资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
 
-*视频集*
+*视频集*：
 
 {% youtube %}https://www.youtube.com/watch?v=8m4_NpTQn0E&vq=hd720{% endyoutube %}
 
