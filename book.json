@@ -4,10 +4,10 @@
         "scrollablecode",
         "youtube",
          "video",
-         "NodeBB"
+         "NodeBB",
+         "baidu"
     ]
     
-    "plugins": ["baidu"],
     "pluginsConfig": {
         "baidu": {
             "token": "YOUR TOKEN"
