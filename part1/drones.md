@@ -23,7 +23,7 @@
 
 *视频集*：
 
-{% video %}http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html{% endvideo %}
+{% NodeBB %}http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html{% NodeBB %}
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
