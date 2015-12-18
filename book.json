@@ -3,16 +3,9 @@
         "mathjax",
         "scrollablecode",
         "youtube",
-         "video",
-         "NodeBB",
-         "baidu"
+         "video"
     ]
-    
-    "pluginsConfig": {
-        "baidu": {
-            "token": "YOUR TOKEN"
-        }
-    }
+
     
     "tbfed-pagefooter": {
       "copyright":"&copy Taobao FED Team",
