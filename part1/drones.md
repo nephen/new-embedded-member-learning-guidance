@@ -23,9 +23,9 @@
 
 *视频集*：
 
-<embed src="http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-
-<iframe height=500 width=600 src="http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html" frameborder=0 allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg"
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
