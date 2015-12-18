@@ -23,7 +23,10 @@
 
 *视频集*：
 
-{% NodeBB %}http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html{% NodeBB %}
+<embed src="http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
+<iframe height=500 width=600 src="http://v.youku.com/v_show/id_XMTI2ODI3ODk4NA==.html" frameborder=0 allowfullscreen></iframe>
+
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
