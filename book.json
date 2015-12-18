@@ -3,6 +3,7 @@
         "mathjax",
         "scrollablecode",
         "youtube",
-         "video"
+         "video",
+         "NodeBB"
     ]
 }
