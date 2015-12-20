@@ -32,6 +32,8 @@
 
 {% youtube %}https://www.youtube.com/watch?v=LnUmYgAINBc&vq=hd720{% endyoutube %}
 
+{% youtube %}https://youtu.be/0Jpq6DU_HVg{% endyoutube %}
+
 #####2.1 学习PX4进度条
 这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
