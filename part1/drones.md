@@ -37,7 +37,7 @@
 #####2.1 学习PX4进度条
 这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
-[~~1. 初学PX4之环境搭建~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>[~~2. 初学PX4之操作系统~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)>>[~~3. 初学PX4之光流智能相机~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8BPX4FLOW%E6%99%BA%E8%83%BD%E7%9B%B8%E6%9C%BA/)>>[~~4. 初学PX4之mixer~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8Bmixer/)>>[~~5. 初学PX4之大体构架~~](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E5%A4%A7%E4%BD%93%E6%9E%84%E6%9E%B6/)>>[~~6.pixhawk试飞报告~~](http://www.nephen.com/2015/12/pixhawk%E8%AF%95%E9%A3%9E%E6%8A%A5%E5%91%8A/)
+[1. 初学PX4之环境搭建](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>>>>[2. 初学PX4之操作系统](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)>>>>>[3. 初学PX4之光流智能相机](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8BPX4FLOW%E6%99%BA%E8%83%BD%E7%9B%B8%E6%9C%BA/)>>>>>[4. 初学PX4之mixer](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8Bmixer/)>>>>>[5. 初学PX4之大体构架](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E5%A4%A7%E4%BD%93%E6%9E%84%E6%9E%B6/)>>>>>[6.pixhawk试飞报告](http://www.nephen.com/2015/12/pixhawk%E8%AF%95%E9%A3%9E%E6%8A%A5%E5%91%8A/)
 
 
 ####项目源码
