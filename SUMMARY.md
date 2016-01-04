@@ -8,6 +8,7 @@
            * [How to start px4?](part2/drones/px4/px4start_md.md)
            * [Flight control algorithm](part2/drones/px4/px4flight_control_md.md)
        * [APM](part2/drones/apm.md)
+            * [Introduction to apm development](part2/drones/apm/apm_start.md)
        * [YuningFly](part2/drones/yuningfly.md)
    * [Smart car](part1/smartCar.md)
    * [Robot](part1/robot.md)
