@@ -210,3 +210,5 @@ PX4 multirotor_att_control应用程序执行一个外循环的方向控制器，
 
 <hr>
 参考文献：[用户文档](https://pixhawk.org/users/start)/[用户教程](https://pixhawk.org/users/tutorials)/[快速学习](https://pixhawk.org/users/first_steps)/[多轴飞行器教程](https://pixhawk.org/platforms/multicopters/start)/[F450安装](https://pixhawk.org/platforms/multicopters/dji_flamewheel_450)/[PID调试](https://pixhawk.org/users/multirotor_pid_tuning)
+
+请点击>>>[原文链接](http://www.nephen.com/2015/12/pixhawk%E8%AF%95%E9%A3%9E%E6%8A%A5%E5%91%8A/)
