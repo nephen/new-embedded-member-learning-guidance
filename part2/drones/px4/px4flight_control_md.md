@@ -47,3 +47,5 @@ PX4飞行栈和中间件可以在微控制器Nuttx小型操作系统上执行，
 
 <hr>
 参考文件：[PX4 Source Code](https://pixhawk.org/firmware/source_code)
+
+请点击>>>[原文链接](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E5%A4%A7%E4%BD%93%E6%9E%84%E6%9E%B6/)
