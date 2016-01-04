@@ -267,3 +267,5 @@ export SITL_GAZEBO_PATH=$HOME/src/sitl_gazebo
 - [planner.ardupilot.com](http://planner.ardupilot.com/)
 - [copter.ardupilot.com](http://copter.ardupilot.com/)
 - [travis-ci.org](https://travis-ci.org/)
+
+请点击>>>[原文链接](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)
