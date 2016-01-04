@@ -4,7 +4,7 @@
 * [Part I](part1/README.md)
    * [Drones](part1/drones.md)
        * [PX4](part2/drones/px4md.md)
-           * [Loading machine and flight test](part2/drones/px4/px4_try_fly.md)
+           * [Loading machine and flight test](part2/drones/px4/px4try_fly_md.md)
            * [How to start px4?](part2/drones/px4/px4_start.md)
            * [Flight control algorithm](part2/drones/px4/px4_flight_control.md)
        * [APM](part2/drones/apm.md)
