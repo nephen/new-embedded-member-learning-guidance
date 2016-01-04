@@ -6,7 +6,7 @@
        * [PX4](part2/drones/px4md.md)
            * [Loading machine and flight test](part2/drones/px4/px4try_fly_md.md)
            * [How to start px4?](part2/drones/px4/px4start_md.md)
-           * [Flight control algorithm](part2/drones/px4/px4_flight_control.md)
+           * [Flight control algorithm](part2/drones/px4/px4flight_control_md.md)
        * [APM](part2/drones/apm.md)
        * [YuningFly](part2/drones/yuningfly.md)
    * [Smart car](part1/smartCar.md)
