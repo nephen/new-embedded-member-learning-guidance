@@ -24,7 +24,8 @@
 ####2.0 加强篇
 *计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
 
-*资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。
+*资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。     
+按照基础程度进行推荐，尽量推荐人人皆可阅读的一般性[文章](http://blog.exbot.net/archives/1169)，最后附上网盘链接。
 
 *视频集*：
 
