@@ -25,7 +25,7 @@
     git init
     git add README.md SUMMARY.md
     git commit -m "first commit"
-    git remote add gitbook https://git.gitbook.com/nephen/bluetoothlamp.git
+    git remote add gitbook https://git.gitbook.com/nephen/new-embedded-member-learning-guidance.git
     git push -u gitbook master
     ```
     2. 或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作，如果是在64位Linux环境下
