@@ -1,5 +1,7 @@
 # 无人机
 
+[![Gitter](https://badges.gitter.im/nephen/YuningFly.svg)](https://gitter.im/nephen/YuningFly?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 ####项目描述
 ---
 以stm32为飞行控制平台，mpu6050或mpu6000为姿态传感器，采用最新姿态估计算法，实现对四旋翼的定点定高飞行。
@@ -15,16 +17,21 @@
 ####项目进展
 ---
 ####1.0 初学篇
-*介绍*：[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。
+*介绍*：[`匿名飞控`](http://www.anotc.com/)是国内有名的开源飞控，有完善的源代码支持，淘宝购件请到[匿名科创](https://item.taobao.com/item.htm?spm=a230r.1.14.30.5FDa0s&id=42276400719&ns=1&abbucket=7#detail)，这们会对硬件不太擅长的人有好处，可以认真研究飞行算法。另外还有如[crazepony](http://www.crazepony.com/)可以参考一下，这个飞控应该参考了[cleanflight](https://github.com/cleanflight/cleanflight)，有兴趣的都可以去了解一下。
 
 外国也有一个做微型四轴的，叫做[Crazyflie](https://www.bitcraze.io/)有兴趣可以多去参考一下别人的[源码](https://github.com/bitcraze)，淘宝购件[[地址1]](https://item.taobao.com/item.htm?spm=a1z10.5-c.w4002-5390404431.91.IKQiR6&id=41416472851)[[地址2]](https://shop35831139.taobao.com/?spm=a230r.7195193.1997079397.2.apEOxY)。
+
+*知识*：一般采用超声波、声纳或气压计来定高，定点可以看看[px4flow](https://pixhawk.org/zh/modules/px4flow)光流计([资料](http://bbs.elecfans.com/jishu_484076_1_1.html))。
 
 *建议*：这里有个建议，花点时间学下[GIT](http://git-scm.com/doc)，然后将项目源码托管于[Github](https://github.com/)上，这对一个团队的项目管理有很大的好处，不会有项目里边谁的代码是最新的这样的疑问了。
 
 ####2.0 加强篇
-*计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。
+*计划*：正在学习[px4](http://www.pixhawk.org/)，硬件现成，主攻软件。软件分为两套，一个为[原生代码](https://pixhawk.org/zh/modules/px4flow)，另一个基于px4飞行栈的[APM](https://github.com/diydrones/ardupilot)。
 
-*资源*：pixhawk`官方源码`托管在[www.github.com/px4/Firmware](https://www.github.com/px4/Firmware)上。平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。     
+*分析*：整体来看，原生代码结构更加清晰，但是逻辑性强，APM对于入门者更加简单。但它们都可以用于pixhawk硬件上。
+
+*资源*：平时学习交流平台使用了[有道云协作](http://163.fm/cFX5pTQ)，欢迎加入群12591513。或者加入本文上面的Gitter进行交流。
+
 按照基础程度进行推荐，尽量推荐人人皆可阅读的一般性[文章](http://blog.exbot.net/archives/1169)，最后附上网盘链接。
 
 *视频集*：
@@ -38,7 +45,7 @@
 #####2.1 学习PX4进度条
 这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
-[初学PX4之环境搭建](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>>>>[初学PX4之操作系统](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)>>>>>[初学PX4之光流智能相机](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8BPX4FLOW%E6%99%BA%E8%83%BD%E7%9B%B8%E6%9C%BA/)>>>>>[初学PX4之mixer](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8Bmixer/)>>>>>[初学PX4之大体构架](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E5%A4%A7%E4%BD%93%E6%9E%84%E6%9E%B6/)>>>>>[pixhawk试飞报告](http://www.nephen.com/2015/12/pixhawk%E8%AF%95%E9%A3%9E%E6%8A%A5%E5%91%8A/)
+[初学PX4之环境搭建](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA/)>>>>>[初学PX4之操作系统](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)>>>>>[初学PX4之光流智能相机](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8BPX4FLOW%E6%99%BA%E8%83%BD%E7%9B%B8%E6%9C%BA/)>>>>>[初学PX4之mixer](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8Bmixer/)>>>>>[初学PX4之大体构架](http://www.nephen.com/2015/12/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E5%A4%A7%E4%BD%93%E6%9E%84%E6%9E%B6/)>>>>>[pixhawk试飞报告](http://www.nephen.com/2015/12/pixhawk%E8%AF%95%E9%A3%9E%E6%8A%A5%E5%91%8A/)>>>>>[ArduPilot开发入门学习](http://www.nephen.com/2016/01/ArduPilot%E5%BC%80%E5%8F%91%E5%85%A5%E9%97%A8%E5%AD%A6%E4%B9%A0)>>>>>[ArduPilot之代码概述](http://www.nephen.com/2016/01/ArduPilot%E4%B9%8B%E4%BB%A3%E7%A0%81%E6%A6%82%E8%BF%B0%28Copter%29)>>>>>[初学PX4之飞控算法](http://www.nephen.com/2016/01/%E5%88%9D%E5%AD%A6PX4%E4%B9%8B%E9%A3%9E%E6%8E%A7%E7%AE%97%E6%B3%95) 
 
 
 ####项目源码
@@ -48,3 +55,5 @@
 *项目作品*：http://pan.baidu.com/s/1gdhSxHL *密码*：52ge
 
 *2015省赛源码*:http://pan.baidu.com/s/1pJH4x0B  *密码*:4vag
+
+*开源飞控源码（匿名）*：http://pan.baidu.com/s/1eRzfUj4
