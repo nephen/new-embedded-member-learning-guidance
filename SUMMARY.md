@@ -3,8 +3,6 @@
 * [Introduction](README.md)
 * [Part I](part1/README.md)
    * [Drones](part1/drones.md)
-       * [APM](part2/drones/apm.md)
-           * [Introduction to apm development](part2/drones/apm/apmstart_md.md)
        * [YuningFly](part2/drones/yuningfly.md)
    * [Smart car](part1/smartCar.md)
    * [Robot](part1/robot.md)
