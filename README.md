@@ -14,7 +14,7 @@
 
 - *网页端编辑*
 
-    如果你没有安装任何环境，你也可以在[网页](https://www.gitbook.com/book/nephen/bluetoothlamp/details)上进行编辑。
+    如果你没有安装任何环境，你也可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑。
 
 - *本地编辑*
 
