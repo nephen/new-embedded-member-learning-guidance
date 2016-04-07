@@ -36,6 +36,8 @@
 
 *视频集*：
 
+这里有一个飞控视频的讲解，感觉还不错，网盘资料在项目源码里给出了，可以参考一下，名字叫[飞控漫谈](http://v.youku.com/v_show/id_XMTUyNTI0NDc2MA==.html?f=26204012&from=y1.2-3.4.6)。
+
 {% youtube %}https://www.youtube.com/watch?v=8m4_NpTQn0E&vq=hd720{% endyoutube %}
 
 {% youtube %}https://www.youtube.com/watch?v=LnUmYgAINBc&vq=hd720{% endyoutube %}
