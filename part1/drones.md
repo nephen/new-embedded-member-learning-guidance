@@ -57,3 +57,5 @@
 *2015省赛源码*:http://pan.baidu.com/s/1pJH4x0B  *密码*:4vag
 
 *开源飞控源码（匿名）*：http://pan.baidu.com/s/1eRzfUj4
+
+*飞控漫谈网盘*：http://pan.baidu.com/s/1qXFMpfI#path=%252F%25E9%25A3%259E%25E6%258E%25A7%25E6%25BC%25AB%25E8%25B0%2588%252F%25E7%25AC%25AC6%25E8%25AE%25B2
