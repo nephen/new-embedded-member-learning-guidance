@@ -7,32 +7,53 @@
 
 1、**加入合作者**
 
+建议使用github编辑，无需这一步。
+
 如果你有时间、并且有兴趣，请给我发邮件<a href=mailto:995168694@qq.com>995168694@qq.com</a>，我将给你发送加入合作者的链接，如果没有github帐号就注册[github](https://github.com/login)，然后使用github帐号登录邮箱里的链接，然后再在个人设置里面加入你发我的邮箱。如下：
 <img src="http://blue.nephen.com/egitbook.png">
 
 2、**编辑方法**
 
-- *网页端编辑*
+- *gitbook网页端编辑*
 
     如果你没有安装任何环境，你也可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑。
 
-- *本地编辑*
+- *github编辑*
 
-    1. 如果你习惯于使用git（[教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000/)），那么具体的方法如下：
+这种方法是采用的github形式更改来gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。
 
-    ```bash
-    touch README.md SUMMARY.md
-    git init
-    git add README.md SUMMARY.md
-    git commit -m "first commit"
-    git remote add gitbook https://git.gitbook.com/nephen/new-embedded-member-learning-guidance.git
-    git push -u gitbook master
-    ```
-    2. 或者下载[GitBook Editor](https://www.gitbook.com/editor)客户端操作，如果是在64位Linux环境下
-    
-    ```
-    ~ $ sudo dpkg -i gitbook-editor-4.2.2-linux-x64.deb
-    ```
+    1. 网页端编辑
+    打开[网页端](https://github.com/nephen/new-embedded-member-learning-guidance)，进入要进行编辑的文件，如下图
+
+    ![edit_drones](images/edit_drones.png)
+	进入编辑页面，对文件进行修改，修改完成后，提交请求，具体如下图
+
+	![pull_request](images/pull_request.png)
+	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
+
+	![open_pull](images/open_pull.png)
+	剩下来就是主人的事了，如果没有太大的问题，主人就可以合并分支了，到这你的对本文档的贡献就完成了。
+
+	![merge](iamges/merge.png)
+	2. 本地编辑
+	相对于网页端编辑，本地编辑只是编辑在本地，后期的提交分支还是得在网页端进行，不过在此之前你得克隆本项目到你的仓库。
+
+	![clone](clone.png)
+	然后进行如下操作
+	
+	```sh
+	#下载你的项目到本地
+	git clone https://github.com/your_github_username/new-embedded-member-learning-guidance.git
+	#进入文件夹进行编辑即可，完成后如下
+	git add .
+	git status
+	#这里可以看到你的更改状况
+	git commit -m "your comment"
+	#添加你的更改备注，让别人知道你干了什么
+	git push origin master
+	#提交到云端
+	```
+	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
 
 >####`参考资料`
 
