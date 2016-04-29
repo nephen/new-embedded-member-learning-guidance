@@ -1,11 +1,13 @@
 前言
 =======
 
-######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导，访问地址：[emb.nephen.com](http://emb.nephen.com/)。
+######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导，访问地址：[emb.nephen.com](http://emb.nephen.com/)，由于访问gitbook慢，页面展示如下。
+
+![look](images/look.png)
 
 >####`怎么参与维护`
 
-1、**加入合作者**
+1、**加入合作者（不推荐）**
 
 建议使用github编辑，无需这一步。
 
@@ -14,15 +16,11 @@
 
 2、**编辑方法**
 
-- *gitbook网页端编辑*
-
-    如果你没有安装任何环境，你也可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑。
-
-- *github编辑*
+- *github编辑（推荐方法）*
 
 	这种方法是采用的github形式更改来gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。
 
-    1. 网页端编辑
+    1. 网页端编辑（推荐方法）
 
     打开[网页端](https://github.com/nephen/new-embedded-member-learning-guidance)，进入要进行编辑的文件，如下图
 
@@ -37,7 +35,7 @@
 
 	![merge](images/merge.png)
 	2. 本地编辑
-	
+
 	相对于网页端编辑，本地编辑只是编辑在本地，后期的提交分支还是得在网页端进行，不过在此之前你得克隆本项目到你的仓库。
 
 	![clone](images/clone.png)
@@ -56,6 +54,9 @@
 	#提交到云端
 	```
 	到这里为止，还只对你自己的仓库进行了修改，你需要按照上面的方法提交分支到nephen的仓库，可以看出，如果只是少量的更改，建议使用网页端编辑。
+- *gitbook网页端编辑（不推荐）*
+
+    如果你没有安装任何环境，你可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑，由于gitbook访问慢，不建议这种方法。
 
 >####`参考资料`
 
