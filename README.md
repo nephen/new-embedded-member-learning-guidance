@@ -4,9 +4,11 @@
 ######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导，访问地址：[emb.nephen.com](http://emb.nephen.com/)，由于访问gitbook慢，页面展示如下。
 
 ![look](images/look.png)
+
 由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](pdf/new-embedded-member-learning-guidance.pdf)即可，书本展示如下。
 
 ![pdf](images/pdf.png)
+
 下载pdf文件
 
 ![download](images/download.png)
@@ -31,20 +33,25 @@
     打开[网页端](https://github.com/nephen/new-embedded-member-learning-guidance)，进入要进行编辑的文件，如下图
 
     ![edit_drones](images/edit_drones.png)
+
 	进入编辑页面，对文件进行修改，修改完成后，提交请求，具体如下图
 
 	![pull_request](images/pull_request.png)
+
 	检查是否与原有版本有冲突，如果有，解决冲突再提交，没有则提交，具体如下图
 
 	![open_pull](images/open_pull.png)
+
 	剩下来就是主人的事了，如果没有太大的问题，主人就可以合并分支了，到这你的对本文档的贡献就完成了。
 
 	![merge](images/merge.png)
+
 	2. 本地编辑（git高级用户推荐）
 
 	相对于网页端编辑，本地编辑只是编辑在本地，后期的提交分支还是得在网页端进行，不过在此之前你得克隆本项目到你的仓库。
 
 	![clone](images/clone.png)
+	
 	然后进行如下操作
 	
 	```sh
