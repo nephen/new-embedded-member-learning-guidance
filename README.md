@@ -20,7 +20,7 @@
 
 - *github编辑*
 
-这种方法是采用的github形式更改来gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。
+	这种方法是采用的github形式更改来gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。
 
     1. 网页端编辑
     打开[网页端](https://github.com/nephen/new-embedded-member-learning-guidance)，进入要进行编辑的文件，如下图
