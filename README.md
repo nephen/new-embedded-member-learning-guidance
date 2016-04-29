@@ -4,6 +4,9 @@
 ######此教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式资深成员维护，旨在为嵌入式新成员提供更好更快的学习指导，访问地址：[emb.nephen.com](http://emb.nephen.com/)，由于访问gitbook慢，页面展示如下。
 
 ![look](images/look.png)
+由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](pdf/new-embedded-member-learning-guidance.pdf)即可，书本展示如下。
+
+![pdf](images/pdf.png)
 
 >####`怎么参与维护`
 
