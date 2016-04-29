@@ -47,7 +47,7 @@
 #####2.1 学习PX4进度条
 这里主要展示项目的一个进展，同时会给出相应的链接，让新手也能循序渐进。
 
-  1. [无人机学习概览](http://www.nephen.com/arrange/drones) :具体见链接分析。
+  1. [无人机学习概览](http://www.nephen.com/arrange/drones) :具体见链接里面的学习思路分析。
   2. [yuningfly开发](https://github.com/nephen/YuningFly)：这个是在学习了pixhawk、px4和apm的基础上，做的一个属于自己的飞行器，包括硬件与软件开发。
 
 ####项目资源
