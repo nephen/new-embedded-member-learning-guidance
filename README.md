@@ -23,6 +23,7 @@
 	这种方法是采用的github形式更改来gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。
 
     1. 网页端编辑
+
     打开[网页端](https://github.com/nephen/new-embedded-member-learning-guidance)，进入要进行编辑的文件，如下图
 
     ![edit_drones](images/edit_drones.png)
@@ -34,11 +35,12 @@
 	![open_pull](images/open_pull.png)
 	剩下来就是主人的事了，如果没有太大的问题，主人就可以合并分支了，到这你的对本文档的贡献就完成了。
 
-	![merge](iamges/merge.png)
+	![merge](images/merge.png)
 	2. 本地编辑
+	
 	相对于网页端编辑，本地编辑只是编辑在本地，后期的提交分支还是得在网页端进行，不过在此之前你得克隆本项目到你的仓库。
 
-	![clone](clone.png)
+	![clone](images/clone.png)
 	然后进行如下操作
 	
 	```sh
