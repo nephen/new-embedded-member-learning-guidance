@@ -5,13 +5,13 @@
 
 ![look](images/look.png)
 
-由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](pdf/new-embedded-member-learning-guidance.pdf)即可，书本展示如下。
-
-![pdf](images/pdf.png)
-
-下载pdf文件
+由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](https://github.com/nephen/new-embedded-member-learning-guidance/blob/master/pdf/new-embedded-member-learning-guidance.pdf)即可
 
 ![download](images/download.png)
+
+书本展示如下
+
+![pdf](images/pdf.png)
 
 >####`怎么参与维护`
 
@@ -51,7 +51,7 @@
 	相对于网页端编辑，本地编辑只是编辑在本地，后期的提交分支还是得在网页端进行，不过在此之前你得克隆本项目到你的仓库。
 
 	![clone](images/clone.png)
-	
+
 	然后进行如下操作
 	
 	```sh
