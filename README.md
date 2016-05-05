@@ -5,7 +5,7 @@
 
 ![look](images/look.png)
 
-由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](https://github.com/nephen/new-embedded-member-learning-guidance/blob/master/pdf/new-embedded-member-learning-guidance.pdf)即可
+由于访问慢的原因，会定期生成pdf书本，大家从github里面下载[pdf书本](https://github.com/nephen/new-embedded-member-learning-guidance/blob/master/pdf/new-embedded-member-learning-guidance.pdf)即可，当然如果gitbook网络顺利，就可以直接[下载pdf](https://www.gitbook.com/download/pdf/book/nephen/new-embedded-member-learning-guidance)。
 
 ![download](images/download.png)
 
