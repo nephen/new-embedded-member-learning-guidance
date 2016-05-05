@@ -9,7 +9,6 @@
 * [Part II](part2/README.md)
    * [Job experience](part2/Experience sharing.md)
    * [Job prepare](part2/C language.md)
-   * [Data structure](part2/Data structure.md)
 * [Part III](part3/README.md)
    * [Drive development](part3/drive_developmentmd.md)
 * [Part IV](part4/README.md)
