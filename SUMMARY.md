@@ -8,7 +8,7 @@
    * [Platform](part1/platform.md)
 * [Part II](part2/README.md)
    * [Job experience](part2/Experience sharing.md)
-   * [Job prepare](part2/C language.md)
+   * [Job prepare](part2/Job prepare.md)
 * [Part III](part3/README.md)
    * [Drive development](part3/drive_developmentmd.md)
 * [Part IV](part4/README.md)
