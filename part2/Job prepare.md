@@ -8,6 +8,8 @@
 
 ##推荐网站
 
-1. 牛客网
-2. 七月算法
-3. lintcode
+1. [牛客网](http://www.nowcoder.com/)
+2. [七月算法](http://www.julyedu.com/)
+3. [lintcode](http://www.lintcode.com/zh-cn/)/[leetcode](https://leetcode.com/)
+4. (就业信息)[海投网](http://www.haitou.cc/)
+5. (就业信息)[麓山就业网](http://www.63jiuye.com/forum.php)
