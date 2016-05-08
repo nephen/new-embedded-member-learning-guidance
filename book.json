@@ -7,8 +7,7 @@
         "baidu",
         "video",
         "editlink",
-        "github",
-        "light-it"
+        "github"
     ],
     "pluginsConfig": {
         "baidu": {
