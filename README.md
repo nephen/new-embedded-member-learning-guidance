@@ -34,7 +34,11 @@
 
 	    ![edit_drones](images/edit_drones.png)
 
-		进入编辑页面，对文件进行修改，修改完成后，提交请求，具体如下图
+	    或者也可以在浏览在线页面时进行编辑，这样，只要你看到不妥的地方立马可以修改，具体如下图
+
+	    ![editpage](images/editpage.png)
+
+		进入编辑页面后，对文件进行修改，修改完成后，提交请求，具体如下图
 
 		![pull_request](images/pull_request.png)
 
