@@ -6,7 +6,8 @@
         "youtube",
         "baidu",
         "video",
-        "editlink"
+        "editlink",
+        "github"
     ],
     "pluginsConfig": {
         "baidu": {
@@ -16,6 +17,9 @@
         "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
         "label": "Edit This Page",
         "multilingual": false
+        },
+        "github": {
+            "url": "https://github.com/nephen/new-embedded-member-learning-guidance"
         }
     }
 }
