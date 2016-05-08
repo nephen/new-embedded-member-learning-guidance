@@ -6,7 +6,7 @@
         "youtube",
         "baidu",
         "video",
-        "-edit-link"
+        "edit-link"
     ],
     "pluginsConfig": {
         "baidu": {
