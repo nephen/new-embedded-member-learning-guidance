@@ -16,7 +16,7 @@
         },
         "editlink": {
             "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
-            "label": "Edit This Page",
+            "label": "编辑本页",
             "multilingual": false
         },
         "github": {
