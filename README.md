@@ -5,7 +5,6 @@
 
 [i]访问地址：[emb.nephen.com](http://emb.nephen.com/)
 
-由于访问gitbook慢，页面展示如下。
 
 ![look](images/look.png)
 
