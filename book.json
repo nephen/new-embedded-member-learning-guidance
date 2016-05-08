@@ -8,16 +8,16 @@
         "video",
         "editlink",
         "github",
-        "light-it"
+        "-light-it"
     ],
     "pluginsConfig": {
         "baidu": {
             "token": "a9787f0ab45d5e237bab522431d0a7ec"
         },
         "editlink": {
-        "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
-        "label": "Edit This Page",
-        "multilingual": false
+            "base": "https://github.com/nephen/new-embedded-member-learning-guidance/edit/master",
+            "label": "Edit This Page",
+            "multilingual": false
         },
         "github": {
             "url": "https://github.com/nephen/new-embedded-member-learning-guidance"
