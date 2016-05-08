@@ -16,7 +16,7 @@
 
 ![pdf](images/pdf.png)
 
->####`怎么参与维护`
+##怎么参与维护
 
 1、**加入合作者（不推荐）**
 
@@ -78,7 +78,7 @@
 
     如果你没有安装任何环境，你可以在[网页](https://www.gitbook.com/book/nephen/new-embedded-member-learning-guidance/details)上进行编辑，由于gitbook访问慢，不建议这种方法。
 
->####`参考资料`
+##参考资料
 
 1. 关于gitbook，可查看[www.gitbook.com](https://www.gitbook.com)。
 
