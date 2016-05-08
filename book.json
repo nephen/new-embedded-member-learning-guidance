@@ -1,17 +1,16 @@
 {
     "language": "zh",
-    
-    "plugins":[
+    "plugins": [
         "mathjax",
         "scrollablecode",
         "youtube",
         "baidu",
-         "video"
+        "video",
+        "edit-link"
     ],
-    
-     "pluginsConfig": {
+    "pluginsConfig": {
         "baidu": {
             "token": "a9787f0ab45d5e237bab522431d0a7ec"
         }
-     }
+    }
 }
