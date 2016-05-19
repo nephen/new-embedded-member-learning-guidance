@@ -15,14 +15,6 @@
 
 - 2017.5.0    
 1.7m/s视频[地址](http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf)。
-2.自卫队，民
-
-
-<embed src="http://player.youku.com/player.php/sid/XMTI2MjA2MTI4NA==/v.swf" allowFullScreen="true" quality="high" width="100%" height="100%" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
-
-
-
- fr 
 
 ###项目源码
 ---
