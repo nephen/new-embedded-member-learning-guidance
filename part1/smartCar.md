@@ -15,7 +15,7 @@
 
 - 2017.5.20
 
-<embed src="http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+<iframe height=498 width=510 src="http://player.youku.com/embed/XMTU3Njg5NTMxMg==" frameborder=0 allowfullscreen></iframe>
 
 ###项目源码
 ---
