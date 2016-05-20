@@ -23,14 +23,14 @@
         "github": {
             "url": "https://github.com/nephen/new-embedded-member-learning-guidance"
         },
-        "duoshuo": {
-            "short_name": "nephen",
-            "theme": "default"
-        },
         "tbfed-pagefooter": {
             "copyright": "&copy CSUST/emb Team",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "duoshuo": {
+            "short_name": "nephen",
+            "theme": "default"
         }
     }
 }
