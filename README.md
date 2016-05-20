@@ -46,7 +46,7 @@
 
 			![issue1](images/issue1.png)
 
-			按照提示，点击`Fork this repository and propose chanes`，进入即可编辑，如下图
+			按照提示，点击`Fork this repository and propose chanes`，进入即可采用markdown语言编辑，如下图
 
 			![editfirst](images/editfirst.png)
 	    - 提交贡献：首先提名文件更改，如下图
