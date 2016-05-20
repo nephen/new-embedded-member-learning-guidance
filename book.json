@@ -8,7 +8,8 @@
         "video",
         "editlink",
         "github",
-        "tbfed-pagefooter"
+        "tbfed-pagefooter",
+        "duoshuo"
     ],
     "pluginsConfig": {
         "baidu": {
