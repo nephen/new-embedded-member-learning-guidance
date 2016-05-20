@@ -13,8 +13,7 @@
 ###项目进展
 ---
 
-2017.5.20---1.7m/s视频[地址](http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf)
-
+- 2017.5.20---1.7m/s视频   
 <embed src="http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ###项目源码
