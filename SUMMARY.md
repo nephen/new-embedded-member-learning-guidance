@@ -10,7 +10,6 @@
    * [Job experience](part2/Experience sharing.md)
    * [Job prepare](part2/Job prepare.md)
 * [Part III](part3/README.md)
-   * [Drive development](part3/drive_developmentmd.md)
 * [Part IV](part4/README.md)
 * [Part V](part5/README.md)
    * [How to internet over the wall?](part5/get_outer_net.md)
