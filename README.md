@@ -4,8 +4,8 @@
 一直实验室就有一个管理漏洞，以前做过的项目找不到地方了，要么就是握在某几个人的手里别人不知道，甚至自己的项目有时候也找不到地方了，而上传实验室公共百度云盘的资料没有文字说明，多了的时候也很难找，或者有些人不方便登录和上传实验室公共百度云盘，导致后面接手或学习的人又得重新开始，在这个情况下，此教程诞生了。   
 ######该教程为长沙理工大学嵌入式基地内部资料，由学习部负责起草，嵌入式正式成员维护，通过整理实验室零散的项目文档资料到一起，为嵌入式新成员提供更好更快的学习指导，解决大家找资料难，学习找不到方向的问题。
 
->访问地址：[emb.nephen.com](http://emb.nephen.com/)    
->下载地址：[gitbook地址](https://www.gitbook.com/download/pdf/book/nephen/new-embedded-member-learning-guidance)
+>访问地址：[为防泄密已关闭子域名请自行记录](https://nephen.gitbooks.io/new-embedded-member-learning-guidance/content/)    
+>下载地址：[Gitbook地址](https://www.gitbook.com/download/pdf/book/nephen/new-embedded-member-learning-guidance)
 
 ![look](images/look.png)
 
