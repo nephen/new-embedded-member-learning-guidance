@@ -27,7 +27,7 @@
 <img src="http://blue.nephen.com/egitbook.png">
 
 2、**编辑方法**
-*	asdf
+
 - *github编辑（推荐方法）*
 
 	这种方法是采用更改github的形式来更改gitbook，**无需上面的加入合作者**，因为该gitbook文章已经与github连接起来，只要更改了被连接的github就可以更新gitbook文章，而且目前gitbook登录反应慢，所以建议采用这种更改github的方式。这里分为两种方式，依个人的习惯而选择吧。

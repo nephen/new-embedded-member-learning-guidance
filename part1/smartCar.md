@@ -2,20 +2,30 @@
 
 ###项目描述
 ---
-此项目全称为[全国大学生“飞思卡尔”智能汽车竞赛](http://www.smartcar.au.tsinghua.edu.cn/)，以飞思卡尔公司的微控制器作为主控芯片，实现小车在固定跑道上快速稳定行驶的智能汽车控制方案。
+此项目全称为[全国大学生恩智浦(飞思卡尔)智能车竞赛](http://www.smartcar.au.tsinghua.edu.cn/)，以恩智浦(原飞思卡尔)公司的微控制器作为主控芯片，实现小车在固定跑道上快速稳定行驶的智能汽车控制方案。
 
 ###项目成员
 ---
-*13级通信牛鼎<small>（负责人）</small>、13级通信许一、14级计科向文彬*
+*13级通信牛鼎<small>（负责人）</small>、13级通信许一、13级计科蒋凯龙*
 
 *14级软件唐琛、14级计科刘德胜、14级计科王滔滔*
 
+###项目资源
+经常逛的论坛：[智能车制作](http://www.znczz.com/forum.php)
+
 ###项目进展
 ---
+- 2015届CCD视频存档
 
-- 2017.5.20---1.7m/s视频
+	<embed src="http://player.youku.com/player.php/sid/XMTU4NTQyOTAyOA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
-  <embed src="http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+- 2016.5.20---1.7m/s视频
+
+ 	<embed src="http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
+- 2016.5.25---上大跑道视频
+
+	<embed src="http://player.youku.com/player.php/sid/XMTU4NTQyNzkzNg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ###项目源码
 ---
