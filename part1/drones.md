@@ -53,7 +53,7 @@
 #####2.2 飞行视频
 下面为试验期间飞行记录：
 
-- 科技文化节拉横幅
+- [科技文化节拉横幅](http://player.youku.com/player.php/sid/XMTU5NjMwMTU1Mg==/v.swf)
 
 	<embed src="http://player.youku.com/player.php/sid/XMTU5NjMwMTU1Mg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 

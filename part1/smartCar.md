@@ -16,15 +16,15 @@
 
 ###项目进展
 ---
-- 2015届CCD视频存档
+- [2015届CCD视频存档](http://player.youku.com/player.php/sid/XMTU4NTQyOTAyOA==/v.swf)
 
 	<embed src="http://player.youku.com/player.php/sid/XMTU4NTQyOTAyOA==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
-- 2016.5.20---1.7m/s视频
+- 2016.5.20---1.7m/s[视频](http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf)
 
  	<embed src="http://player.youku.com/player.php/sid/XMTU3Njg5NTMxMg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
-- 2016.5.25---上大跑道视频
+- 2016.5.25---上大跑道[视频](http://player.youku.com/player.php/sid/XMTU4NTQyNzkzNg==/v.swf)
 
 	<embed src="http://player.youku.com/player.php/sid/XMTU4NTQyNzkzNg==/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
